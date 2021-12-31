@@ -1,0 +1,8 @@
+System.register(["./typescript-legacy.d9962835.js","./index-legacy.693adf92.js","./useVisualData-legacy.0966a363.js","./index-legacy.74c78e75.js","./preload-helper-legacy.c72b98d1.js","./plugin-vue_export-helper-legacy.7bb61c33.js","./useAnimate-legacy.c3743aea.js","./editorWorker-legacy.d4892705.js"],(function(e){"use strict";var t,i;return{setters:[function(e){t=e.conf,i=e.language},function(){},function(){},function(){},function(){},function(){},function(){},function(){}],execute:function(){
+/*!-----------------------------------------------------------------------------
+       * Copyright (c) Microsoft Corporation. All rights reserved.
+       * Version: 0.31.1(337587859b1c171314b40503171188b6cea6a32a)
+       * Released under the MIT license
+       * https://github.com/microsoft/monaco-editor/blob/main/LICENSE.txt
+       *-----------------------------------------------------------------------------*/
+e("conf",t),e("language",{defaultToken:"invalid",tokenPostfix:".js",keywords:["break","case","catch","class","continue","const","constructor","debugger","default","delete","do","else","export","extends","false","finally","for","from","function","get","if","import","in","instanceof","let","new","null","return","set","super","switch","symbol","this","throw","true","try","typeof","undefined","var","void","while","with","yield","async","await","of"],typeKeywords:[],operators:i.operators,symbols:i.symbols,escapes:i.escapes,digits:i.digits,octaldigits:i.octaldigits,binarydigits:i.binarydigits,hexdigits:i.hexdigits,regexpctl:i.regexpctl,regexpesc:i.regexpesc,tokenizer:i.tokenizer})}}}));
